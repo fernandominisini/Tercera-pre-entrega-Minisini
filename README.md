@@ -7,8 +7,8 @@ visualizarlos. Podremos buscar cursos existentes ingresando el numero de comisio
 
 ACCESO:
 En primer lugar debemos ingresar al repositorio de GitHub mediante el siguiente link para obtener el proyecto.
-https://github.com/fernandominisini/ProyectoCoder.git
-IMPORTANTE: El proyecto se encuentra en la rama "master".
+https://github.com/fernandominisini/Tercera-pre-entrega-Minisini.git
+IMPORTANTE: El proyecto se encuentra en la rama "main".
 
 FUNCIONAMIENTO:
 Luego, iniciado el server, nos dirigimos a la dirección http://127.0.0.1:8000/AppCoder.
